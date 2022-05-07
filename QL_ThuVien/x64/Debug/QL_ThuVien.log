@@ -1,0 +1,8 @@
+﻿  CDocGia.cpp
+  CDocGiaNguoiLon.cpp
+  CDocGiaTreEm.cpp
+  CThuVien.cpp
+D:\OOP\OOP\QL_ThuVien\CThuVien.cpp(78,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+  QL_ThuVien.vcxproj -> D:\OOP\OOP\x64\Debug\QL_ThuVien.exe

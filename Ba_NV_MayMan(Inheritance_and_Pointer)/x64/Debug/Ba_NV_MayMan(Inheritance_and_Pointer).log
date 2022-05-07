@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\OOP\OOP\Ba_NV_MayMan(Inheritance_and_Pointer)\Source.cpp(155,22): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Ba_NV_MayMan(Inheritance_and_Pointer).vcxproj -> D:\OOP\OOP\x64\Debug\Ba_NV_MayMan(Inheritance_and_Pointer).exe
